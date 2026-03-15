@@ -5,6 +5,9 @@
 <br>
 <br>
 #data set<br>
+https://drive.google.com/drive/folders/1KIR6wI-_Q4amlcY6xZdroPkiZn35DMEZ <br>
+https://drive.google.com/drive/folders/1u_WFxbdH334ykrZTSOVH9-tUUM55O33S <br>
+
 dataframe created from scratch using /numpy libraries<br>
 reshape to 1d<br>
 
